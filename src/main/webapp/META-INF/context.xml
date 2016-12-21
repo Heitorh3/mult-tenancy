@@ -13,7 +13,7 @@
               acquireIncrement="1"
     		  name="jdbc/imperio-rodas"  
               user="root" 
-              password="root" 
+              password="If07Nt13" 
               factory="org.apache.naming.factory.BeanFactory"
     		  type="com.mchange.v2.c3p0.ComboPooledDataSource"
               jdbcUrl="jdbc:mysql://imperio-rodas.localhost:3306/gerenciador_acesso" />
@@ -25,7 +25,7 @@
               acquireIncrement="1"
     		  name="jdbc/padaria-real"  
               user="root" 
-              password="root" 
+              password="If07Nt13" 
               factory="org.apache.naming.factory.BeanFactory"
     		  type="com.mchange.v2.c3p0.ComboPooledDataSource"
               jdbcUrl="jdbc:mysql://padaria-real.localhost:3306/gerenciador_acesso2" />
